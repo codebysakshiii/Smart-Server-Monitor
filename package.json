@@ -1,0 +1,13 @@
+
+{
+  "name": "smart-server-monitor",
+  "version": "1.0.0",
+  "description": "One-project server manager with live monitoring dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
